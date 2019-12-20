@@ -3,11 +3,11 @@ First Project - Artificial Intelligence - Puzzle15
 March 3rd 2019
 Francisco Gonçalves
 
-### compile:
+### Compile:
 
 	javac Puzzle15.java
 
-### run:
+### Run:
 
 	java Puzzle15
 
