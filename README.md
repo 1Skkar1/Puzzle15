@@ -1,6 +1,6 @@
 # Puzzle15
 First Project - Artificial Intelligence - Puzzle15                                              
-March 3rd 2019
+March 3rd 2019 \n
 Francisco Gonçalves
 
 ### Compile:
