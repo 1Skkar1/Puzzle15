@@ -1,6 +1,5 @@
 # Puzzle15
 Artificial Intelligence - First Project - Puzzle15  
-
 March 3rd 2019
 
 ### Compile:
