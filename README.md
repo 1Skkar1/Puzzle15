@@ -1,15 +1,5 @@
 # Puzzle15
-First Project - Artificial Intelligence - Puzzle15
-
-  _____  ______          _____  __  __ ______ 
- |  __ \|  ____|   /\   |  __ \|  \/  |  ____|
- | |__) | |__     /  \  | |  | | \  / | |__   
- |  _  /|  __|   / /\ \ | |  | | |\/| |  __|  
- | | \ \| |____ / ____ \| |__| | |  | | |____ 
- |_|  \_\______/_/    \_\_____/|_|  |_|______|
-                                              
-                                              
-FIRST ASSIGNMENT - ARTIFICIAL INTELLIGENCE
+First Project - Artificial Intelligence - Puzzle15                                              
 MARCH 3RD 2019
 FRANCISCO GONÇALVES
 
